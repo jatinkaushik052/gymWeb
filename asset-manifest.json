@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gymWeb/static/css/main.24ca3893.css",
+    "main.js": "/gymWeb/static/js/main.f9055802.js",
+    "static/js/592.d16935bc.chunk.js": "/gymWeb/static/js/592.d16935bc.chunk.js",
+    "index.html": "/gymWeb/index.html",
+    "main.24ca3893.css.map": "/gymWeb/static/css/main.24ca3893.css.map",
+    "main.f9055802.js.map": "/gymWeb/static/js/main.f9055802.js.map",
+    "592.d16935bc.chunk.js.map": "/gymWeb/static/js/592.d16935bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ca3893.css",
+    "static/js/main.f9055802.js"
+  ]
+}
